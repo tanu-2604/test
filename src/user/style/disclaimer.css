@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chicle&display=swap');
+
+.dis{
+    color:  #000;
+    font-family:'Baloo Bhai 2', cursive ! important;
+    font-weight: 100;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom:10px;
+}
+.para-text{
+    text-align: justify;
+}
+.para{
+    color:  #000;
+    font-family:'Baloo Bhai 2', cursive ! important;
+    font-weight: 100;
+    font-size: 14px;
+}
+.go-wrapper{
+    text-align: center;
+}
+.go{
+  background:#7555D9;
+  border: none;
+  border-radius: 15px;
+  text-align: center;
+  color:#fff ;
+  font-family: Chicle,Regular;
+  font-size: 20px;
+  padding: 7px 50px;
+  box-shadow: 0 3px 6px #7555D9;
+  cursor: pointer;
+  margin: 20px;
+} 

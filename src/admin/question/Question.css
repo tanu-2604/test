@@ -1,0 +1,96 @@
+.wrapper{
+  float:left;
+  padding:10px;
+}
+   .file-upload{
+     border-radius: 100px;
+     bottom:25px;
+     display:flex;
+     justify-content:center;
+     align-items: center; 
+     border:4px solid #FFFFFF;
+     overflow:hidden;
+     background-image: linear-gradient(to bottom, #2590EB 50%, #FFFFFF 50%);
+     background-size: 100% 200%;
+     transition: all 1s;
+     color: #FFFFFF;
+     font-size:100px;
+   }
+   .file-upload2{
+       border-radius: 100px;
+       float: "left";
+       position:relative;
+       bottom:25px;
+       display:flex;
+       justify-content:center;
+       align-items: center; 
+       border:4px solid #FFFFFF;
+       overflow:hidden;
+       background-image: linear-gradient(to bottom, #2590EB 50%, #FFFFFF 50%);
+       background-size: 100% 200%;
+       transition: all 1s;
+       color: #FFFFFF;
+       font-size:100px;
+     }
+    .option1{
+       position:absolute;
+       top:0;
+       left:0;
+       opacity:0;
+       cursor:pointer;
+ 
+     }
+    .option2{
+       position:absolute;
+       bottom:5px;
+       left:0;
+       opacity:0;
+       cursor:pointer;
+ 
+     }
+     .remove{
+      float:right;
+      margin-top:10px;
+      color: darkred;
+      font-size: 15px;
+     }
+     .qusbtn{
+       float:left !important;
+       margin:10px !important;
+       background:#133b5c !important;
+       color:#fff !important;
+     }
+     .create-answer{
+      width: 70%;
+      margin-top: 20px;
+      margin-left: 20px;
+      border-radius: 10px;
+      resize: none;
+      outline: none;
+      border: none;
+      text-align: center; 
+      height: 45px;
+     }
+     .addWrapper{
+       text-align: center;
+     }
+     .addTAsk{
+      width: 150px;
+      align-self: center;
+      margin-top: 20px;
+      border: none;
+      height: 50px;
+      margin:20px !important;
+      background:#133b5c !important;
+      color:#fff !important;
+      border-radius: 30px !important;
+    font-size: 16px !important;
+    font-weight: 700 !important;
+     }
+
+ 
+
+     
+ 
+ 
+ 

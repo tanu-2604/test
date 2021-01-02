@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chicle&display=swap');
+.player-list{
+    border-radius: 13px !important;
+    border: none;
+    background-color: #D5D5F6 !important;
+    padding:10px 10px;
+    margin: 45px -10px;
+
+}
+.pname{
+    color: #012156;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+    padding: 5px;
+}
+.tagline{
+    color:#012156;
+    font-family: 'Baloo Bhai 2', cursive ! important;
+    font-weight: 800;
+    font-size: 40px;
+    text-align: center;
+    margin: 10px 20px 10px 18px;
+    text-shadow: 0x 2px 2px #000a1a !important;
+}
+.knows{
+    color:#012156;
+    font-family: 'Baloo Bhai 2', cursive ! important;
+    font-weight: 800;
+    font-size: 20px;
+    margin: 20px 20px 0px 20px;
+    text-shadow: 0x 2px 2px #000a1a !important;
+}
+.score-card{
+    border-radius: 13px 13px 0px 0px !important;
+    border: none;
+    background-color: #D5D5F6 !important;
+    padding:0px 20px;
+    margin: -15px;
+    text-align: center;
+}
+.tagimg-card{
+    border-radius:0px 0px 13px 13px !important;
+    border: none;
+    background-color: #012156 !important;
+    padding:0px 20px;
+    margin: -15px;
+    text-align: center;
+}
+.speedometer
+{
+    height: 200px !important;
+}
+.current-value{
+    display: none;
+}
+.score-value{
+    text-align: center;
+    color:#fff;
+    font-size: 28px;
+    font-family: 'Baloo Bhai 2',cursive;
+    margin: 20px 0px;
+}
+.sharetable{
+    border:1px solid #707070;
+    border-radius: 14px;
+    border-collapse: collapse;
+    box-shadow: 0 0px 5px #01225675;
+    margin:20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.shareth{
+    border:1px solid #707070;
+    color: #012156;
+    background-color: #00C3C9;
+    font-family:' Baloo Bhai 2',Cursive;
+    font-size: 20px;
+    font-weight: 700;
+}
+.sharetd{
+    border:1px solid #707070;
+    color: #012156;
+    background-color: #fff;
+    font-size: 18px;
+    padding: 7px 40px;
+    font-weight: 500;
+}
+@media (max-width: 767px) and (min-width:320px) {
+    .pname{
+        color: #012156;
+        text-align: center;
+        font-size: 30px;
+        font-weight: 600;
+        padding: 5px;
+    }
+    .tagline{
+        color:#012156;
+        font-family: 'Baloo Bhai 2', cursive ! important;
+        font-weight: 800;
+        font-size: 30px !important;
+        text-align: center;
+        margin: 10px 20px 10px 18px;
+        text-shadow: 0x 2px 2px #000a1a !important;
+    }
+}

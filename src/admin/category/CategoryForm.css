@@ -1,0 +1,33 @@
+
+
+
+.img-holder{
+    margin: auto;
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 1rem;
+  }
+  .img{
+    width: 100%;
+    object-fit: cover;
+  }
+  #input[type="file"] {
+      display: none;
+  }
+  .label{
+    width: 100%;
+    margin-top: 1rem;
+    display: flex;
+    
+  }
+  .image-upload{
+    margin: 20px;
+    width: 200px;
+    height:35px;
+    padding-top: 15px;
+    color: white;
+    border-radius: 10px;
+    background-color: #133b5c;
+    text-align: center;
+    cursor: pointer;
+  }

@@ -1,0 +1,16 @@
+.footer {
+    flex-shrink: 0;
+    text-align: center;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+  }
+  .footer-text{
+    margin-bottom: 0px;
+    margin-top: 30px;
+    padding-bottom: 10px;
+   
+  }
+  .footer-text a{
+    color: #fff;
+  }

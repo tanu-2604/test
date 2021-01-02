@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chicle&display=swap');
+
+
+.title{
+    color:  #FFDD52;
+    font-family:Chicle ;
+    font-weight: 100;
+    text-align: center;
+    font-size: 42px;
+    margin-bottom:50px;
+
+}
+.sharelink{
+   text-align: center;
+}
+
+.challenge{
+    color:#012156;
+    font-family: 'Baloo Bhai 2', cursive ! important;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 20px 20px 0px 20px;
+    text-shadow: 0x 2px 2px #000a1a !important;
+}
+.this-link{
+    color:#7555D9;
+    font-family: 'Baloo Bhai 2', cursive ! important;
+    font-weight: 500;
+    font-size: 17px;
+    margin: 20px 0px 0px 0px;
+    text-shadow: 0x 2px 2px #000a1a !important;
+}
+.btn-wrapper{
+    text-align: center;
+}
+.copy{
+    background: #00C3C9;
+    border: none;
+    border-radius: 15px;
+    text-align: center;
+    color:#012156 ;
+    font-family: Chicle,Regular;
+    font-size: 23px;
+    padding: 7px 40px;
+    box-shadow: 0 3px 6px #01225675;
+    cursor: pointer;
+    margin: 15px;
+    outline: none;
+} 
+.quizInput{
+    width: 90%;
+    max-width: 375px;
+    padding: 11px 0px;
+    margin: 8px 10px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(255, 249, 249);
+    color: #000;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Baloo Bhai 2',cursive !important;
+    outline: none; 
+  }
+  .btn-list{
+      justify-items: center;
+  }
+.whatsapp{
+    background: #4EC246;
+    border: none;
+    border-radius: 15px;
+    color:#fff ;
+    font-family:' Baloo Bhai 2',Regular;
+    font-size: 20px;
+    font-weight: 600;
+    width:80%;
+    padding: 8px 8px;
+    text-shadow: 0 0 4px #0122567a;
+    box-shadow: 0 3px 6px #00000029;
+    cursor: pointer;
+    margin: 15px auto;
+    display:table;
+    align-items: center;
+    max-width: 375px;
+    outline: none;
+
+} 
+.whatsapp-img{
+    height: 32px;
+    vertical-align:middle;
+    padding-right: 10px;
+}
+.status{
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+}
+.instagram{
+    background: #fff;
+    border: none;
+    border-radius: 15px;
+    color:#012156 ;
+    font-family:' Baloo Bhai 2',Regular;
+    font-size: 20px;
+    font-weight: 600;
+    width:80%;
+    max-width: 375px;
+    padding: 8px 10px;
+    text-shadow: 0 0 4px #0122567a;
+    box-shadow: 0 3px 6px #00000029;
+    cursor: pointer;
+    margin: 15px auto;
+    display:table;
+    align-items: center;
+    outline: none;
+
+}
+.instagram-img{
+    height: 32px;
+    vertical-align:middle;
+    padding-right: 10px;
+} 
+.instagram-status{
+    text-align: center;
+    
+}
+
+.sharing{
+    background: #7555D9;
+    border: none;
+    border-radius: 15px;
+    color:#fff ;
+    font-family:' Baloo Bhai 2',Regular;
+    font-size: 20px;
+    font-weight: 600;
+    width:80%;
+    padding: 8px 10px;
+    text-shadow: 0 0 4px #0122567a;
+    box-shadow: 0 3px 6px #00000029;
+    cursor: pointer;
+    margin: 15px auto;
+    display:table;
+    align-items: center;
+    outline: none;
+
+}
+.sharing-img{
+    height: 32px;
+    vertical-align:middle;
+    padding-right: 10px;
+} 
+.result-wrapper{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.result{
+    background: #00C3C9;
+    border: none;
+    border-radius: 15px;
+    text-align: center;
+    color:#012156 ;
+    font-family: Chicle,Regular;
+    font-size: 27px;
+    padding: 7px 40px;
+    text-shadow: 0 0 4px #0122567a;
+    box-shadow: 0 0px 5px #01225675;
+    cursor: pointer;
+    margin: 15px 0px 0px 0px ;
+    outline: none;
+}  
+
+.sharetable{
+    border:1px solid #707070;
+    border-radius: 14px;
+    border-collapse: collapse;
+    box-shadow: 0 0px 5px #01225675;
+    margin:20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.shareth{
+    border:1px solid #707070;
+    color: #012156;
+    background-color: #00C3C9;
+    font-family:' Baloo Bhai 2',Cursive;
+    font-size: 20px;
+    font-weight: 700;
+}
+.sharetd{
+    border:1px solid #707070;
+    color: #012156;
+    background-color: #fff;
+    font-size: 18px;
+    padding: 7px 40px;
+    font-weight: 500;
+}
+@media screen and (max-width: 380px){
+    .quizInput{
+        width: 90%;
+        padding: 12px 2px;
+        margin: 8px 10px;
+        box-sizing: border-box;
+        border: none;
+        border-radius: 15px;
+        background-color: rgb(255, 249, 249);
+        color: #000;
+        font-size: 12px;
+        text-align: center;
+        font-family: 'Baloo Bhai 2', cursive ! important;
+      }
+}
+@media (min-width: 380px) and (max-width: 770px){
+    .quizInput{
+        width: 90%;
+    padding: 11px 4px;
+    margin: 8px 10px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(255, 249, 249);
+    color: #000;
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Baloo Bhai 2',cursive !important;
+      }
+}
+@media screen and (min-width:388px)  and  (max-width: 425px){
+    .instagram {
+        background: #fff;
+        border: none;
+        border-radius: 15px;
+        color: #012156;
+        font-family: ' Baloo Bhai 2',Regular;
+        font-size: 20px;
+        font-weight: 600;
+        width: 84%;
+        padding: 10px 4px;
+        text-shadow: 0 0 4px #0122567a;
+        box-shadow: 0 3px 6px #00000029;
+        cursor: pointer;
+        margin: 15px auto;
+        display: table;
+        align-items: center;
+    }
+}
+@media screen and (min-width:320px)  and  (max-width: 413px){
+    .instagram {
+        background: #fff;
+        border: none;
+        border-radius: 15px;
+        color: #012156;
+        font-family: ' Baloo Bhai 2',Regular;
+        font-size: 20px;
+        font-weight: 600;
+        width: 100%;
+        padding: 10px 4px;
+        text-shadow: 0 0 4px #0122567a;
+        box-shadow: 0 3px 6px #00000029;
+        cursor: pointer;
+        margin: 15px auto;
+        display: table;
+        align-items: center;
+    }
+    .whatsapp{
+        background: #4EC246;
+        border: none;
+        border-radius: 15px;
+        color:#fff ;
+        font-family:' Baloo Bhai 2',Regular;
+        font-size: 20px;
+        font-weight: 600;
+        width:100%;
+        padding: 8px 8px;
+        text-shadow: 0 0 4px #0122567a;
+        box-shadow: 0 3px 6px #00000029;
+        cursor: pointer;
+        margin: 15px auto;
+        display:table;
+        align-items: center;
+    
+    } 
+}

@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chicle&display=swap');
+.MuiCardContent-root:last-child {
+   padding-bottom: 0px;
+}
+.MuiCardContent-root {
+   padding: 0px;
+}
+.choose1{
+    color:  #FFDD52;
+    font-family:"Chicle" ;
+    text-align: center;
+    font-size: 42px;
+    margin-bottom:0px !important;
+    font-weight: 100;
+}
+.choose2{
+    color:  #FFDD52;
+    font-family:"Chicle" ;
+    text-align: center;
+    font-size: 42px;
+    margin-top: 0px;
+    font-weight: 100;
+}
+.card{
+    border-radius: 14px !important;
+    border: none;
+    padding: 0px;
+    padding-bottom: 0px;
+}
+
+.card-category {
+    padding: 0px !important;
+ }
+.img-bg{
+    background-color: #fff;
+}
+.content-bg{
+    background:#BEC7FC ;
+    text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px 0px;
+}
+.content{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 25px;
+    font-weight: 700;
+    color: #444444;
+    text-align: center;
+}
+
+
+@media screen and (min-width: 768px) {
+    .img-card{
+        padding: 15px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .cardImg{
+        width:100%;
+        max-width: 75px;
+    }
+    .card-category {
+        padding: 0px !important;
+     }
+
+}
+@media screen and (max-width: 750px) {
+    .MuiCardContent-root:last-child {
+        padding-bottom: 0px;
+     }
+    .card-category {
+        padding: 0px !important;
+     }
+    .card{
+        margin-right: 8px;
+    }
+    .img-card{
+      padding: 10px;
+      display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .cardImg{
+        text-align: center;
+        margin:0 auto; 
+        width:100%;
+    }
+    
+    .content{
+        font-family: 'Baloo Bhai 2', cursive;
+        font-size: 20px;
+        font-weight: 700;
+        color: #444444;
+        text-align: center;
+        padding: 3px;
+        overflow-wrap: break-word;
+    
+    }
+  }
+  

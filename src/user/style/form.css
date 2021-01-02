@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chicle&display=swap');
+
+.text1{
+    color:  #FFDD52;
+    font-family:Chicle ;
+    text-align: center;
+    font-size: 42px;
+    font-weight: 100;
+    margin:50px 15px !important;
+}
+.form-card{
+    border-radius: 13px !important;
+    border: none;
+    background-color: #D5D5F6 !important;
+    padding:0px 20px;
+    margin: -15px;
+ 
+
+}
+.language{
+    color:#012156;
+    font-family: 'Baloo Bhai 2', cursive ! important;
+    font-weight: 500;
+    font-size: 20px;
+    margin: 20px 20px 0px 20px;
+    text-shadow: 0x 2px 2px #000a1a !important;
+}
+.custom-select {
+    position: relative;
+    font-family: Arial;
+  }
+.lang{
+      /* width:300px; */
+    height: 40px;
+    margin: 0px 15px 10px 25px;
+    border-radius: 15px;
+    background-color: #ffff;
+    border: 0.5px #707070 ;
+  }
+.lang .opt{
+    border-radius: 10px;
+  }
+.formname{
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 18px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(255, 249, 249);
+    color:#012156;
+    font-family: 'Baloo Bhai 2', cursive ! important;
+    outline: none;
+    font-size: 20px;
+  }
+  ::placeholder {
+    color:#012156;
+  }
+select {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 18px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    color:#012156;
+    font-size: 20px;
+    font-family: 'Baloo Bhai 2', cursive ! important;
+    outline: none;
+  }
+  .start-wrapper{
+      text-align: center;
+  }
+.started{
+    background: #00C3C9;
+    border: none;
+    border-radius: 15px;
+    text-align: center;
+    color:#012156 ;
+    font-family: Chicle,Regular;
+    font-size: 27px;
+    padding: 4px 70px;
+    text-shadow: 0 0 4px #0122567a;
+    box-shadow: 0 3px 6px #01225675;
+    cursor: pointer;
+    margin: 20px;
+    outline: none;
+}  
+.form-grid{
+  margin-bottom: 100px;
+}
+.question-para{
+    color:#fff;
+    font-size: 15px;
+   
+
+  }

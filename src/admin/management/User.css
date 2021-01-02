@@ -1,0 +1,42 @@
+
+
+.wrapper-inner-tab-backgrounds-second{
+    float: right;
+    background-color: #ffffff;
+    margin:10px;
+}
+.button13 {
+    color: #fff;
+    background-color: #133b5c;
+    border: 2px solid  #133b5c;
+    border-radius: 10px;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+    position: relative;
+    margin:auto;
+    padding: 8px 8px;
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+}
+.button13:hover{
+    color: #133b5c;
+    background-color: #fff;
+    border: 2px solid #133b5c;
+    border-radius: 10px;
+    box-shadow: 2px 4px 10px #133b5c;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+    position: relative;
+    margin:auto;
+    /* padding: 12px 12px; */
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+    transform: scale(1,1);
+   }
+

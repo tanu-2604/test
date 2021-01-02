@@ -1,0 +1,32 @@
+.sidedrawer{
+    height:100%;
+    background:#fff;
+    box-shadow:2px 0px 5px rgba(0,0,0,0.3);
+    position:fixed;
+    top:0;
+    left:0;
+    width:70%;
+    max-width:350px;
+    z-index: 200;
+ 
+}
+
+.sideul{
+    list-style:"none";
+    display:"flex";
+    flex-direction:"column";
+    justify-content:"center";
+    background:"#fff"
+}
+.sideli{
+    margin:"0.5rem 0";
+    background:"#fff";
+}
+.sidea{
+    color:"#636060";
+    text-decoration: "none";
+    font-weight: "600";
+}
+.sidea:hover ,.sidea:active{
+  color:#f45f45;
+}

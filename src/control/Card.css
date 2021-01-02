@@ -1,0 +1,124 @@
+.optioncard{
+    margin: 20px 0px;
+    
+}
+.carddata{
+    background-color: #fff;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    color:#7555D9;
+
+
+    }
+
+.imgpart{
+    text-align: center;
+}
+.categoryImg{
+    float:left;
+    padding: 10px;
+    width: 65%;
+}
+
+.newcontent{
+    padding:0px !important;
+    padding-bottom: 0px !important;
+    text-align: center;
+}
+.optioncontent{
+    padding:0px;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 23px;
+    font-weight: 600;
+    text-shadow:0 0px 2px #7555D9;
+
+}
+
+
+
+  /* @media screen and (max-width: 860px) and  (min-width: 750px){
+    .optionImg{
+        text-align: center;
+        margin:0 auto; 
+        width:80%;
+        padding: 0px;
+    }
+  }
+  /* @media screen and (max-width: 750px) {
+    
+    .optionImg{
+        text-align: center;
+        margin:0 auto; 
+        width:93px;
+        padding: 0px;
+    }
+    
+
+  } 
+  @media screen  and (max-width: 750px) and (min-width:385px) {
+    .cardcontent{
+        padding: 10px 0px 0px 45px !important;
+    }
+    .nonclickoption{
+        background-color: #fff;
+        border-radius: 15px;
+        margin-bottom: 15px;
+        color:#7555D9;
+      
+        }
+    .optionImg{
+        text-align: center;
+        margin:0 auto; 
+        width:90%;
+        padding: 0px;
+    }
+    
+    .optioncontent{
+        padding:0px;
+        font-family: 'Baloo Bhai 2', cursive;
+        font-size: 17px;
+        font-weight: 600;
+        text-shadow:0 0px 2px #7555D9;
+    
+    }
+    
+   .clickoption{
+            background-color: #7555D9;
+            border-radius: 15px;
+            margin-bottom: 15px;
+            color: #fff !important;
+            }
+  }
+  @media (max-width: 379px) and (min-width:320px) {
+    .cardcontent{
+        padding: 10px 0px 0px 35px !important;
+    }
+    .optioncontent{
+        padding:0px;
+        font-family: 'Baloo Bhai 2', cursive;
+        font-size: 17px !important;
+        font-weight: 600;
+        text-shadow:0 0px 2px #7555D9;
+    
+    }
+    .nonclickoption{
+        background-color: #fff;
+        border-radius: 15px;
+        margin-bottom: 15px;
+        color:#7555D9;
+      
+        }
+    .clickoption{
+        background-color: #7555D9;
+        border-radius: 15px;
+        margin-bottom: 15px;
+        color: #fff !important;
+        }
+    .optionImg{
+        text-align: center;
+        margin:0 auto; 
+        width:100%;
+        padding: 0px;
+    }
+
+  } */

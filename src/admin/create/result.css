@@ -1,0 +1,34 @@
+
+.detailView1{
+    height: calc(100vh - 70px);
+    overflow: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cardTable{
+    background-color:#F5F4F3;
+    padding: 15px;
+    margin: 45px;
+    border-radius: 10px;
+}
+.tablebody{
+   color:#133b5c;
+   background-color: #fff;
+}
+.viewtable{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    color:#133b5c;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
